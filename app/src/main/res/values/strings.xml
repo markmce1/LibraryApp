@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DIT library app</string>
+    <string name="title_activity_listact">listact</string>
+    <string name="title_activity_useful_websites">usefulWebsites</string>
+</resources>
